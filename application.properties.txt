@@ -1,0 +1,2 @@
+confisg1=config1
+startup-time=10PM
